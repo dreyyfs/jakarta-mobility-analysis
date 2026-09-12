@@ -13,7 +13,7 @@ Central Jakarta's Monas–Bundaran HI corridor functions as the administrative a
 Traffic congestion in Jakarta is frequently discussed in terms of anecdote and aggregate travel-time indices, but rarely decomposed into the structural, network-level features that produce it. Planning decisions, where to widen a road, where to add a transit line, which intersection to redesign, benefit from a model that can isolate which specific edges and nodes in the network are disproportionately responsible for connectivity and congestion. Graph theory offers exactly this kind of decomposition, and open geospatial data (via OpenStreetMap) now makes it possible to build such models for a real, dense, informally-mapped city like Jakarta without proprietary datasets.
 
 ### 1.2 Study Corridor
-The corridor selected — Monas (Monumen Nasional) to Bundaran HI (Hotel Indonesia Roundabout) along Jalan M.H. Thamrin, is arguably the single most symbolically and functionally important axis in Jakarta. It links the national monument and surrounding government district to the primary central business district, and it is paralleled by the Jakarta MRT's north–south line, making it a natural test bed for multi-modal comparison.
+The corridor selected, Monas (Monumen Nasional) to Bundaran HI (Hotel Indonesia Roundabout) along Jalan M.H. Thamrin, is arguably the single most symbolically and functionally important axis in Jakarta. It links the national monument and surrounding government district to the primary central business district, and it is paralleled by the Jakarta MRT's north–south line, making it a natural test bed for multi-modal comparison.
 
 ### 1.3 Research Questions
 This project is organized around four questions:
